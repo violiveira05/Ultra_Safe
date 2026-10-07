@@ -789,7 +789,7 @@ Os dados utilizados no protótipo são simulados para fins acadêmicos.
 
 ## Protótipo Figma
 
-https://www.figma.com/make/6VWjMimHk2LFU6RbxjxJX4/Base-UI-for-UltraSafe?t=a05YFSaF5zfiWmPM-1
+https://www.figma.com/make/6VWjMimHk2LFU6RbxjxJX4/Base-UI-for-UltraSafe?t=OceOhSx7kWmqb021-20&fullscreen=1
 
 ---
 
