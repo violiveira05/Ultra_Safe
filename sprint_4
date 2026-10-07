@@ -761,42 +761,6 @@ Entre os resultados alcançados estão:
 
 ---
 
-# Organização da Documentação
-
-Para facilitar a avaliação e evitar links com acesso restrito, os documentos relacionados ao Scrum e à arquitetura devem ser armazenados diretamente no repositório.
-
-Estrutura sugerida:
-
-```text
-UltraSafe/
-│
-├── README.md
-│
-├── docs/
-│   │
-│   ├── arquitetura/
-│   │   └── arquitetura-final.md
-│   │
-│   ├── requisitos/
-│   │   └── requisitos.md
-│   │
-│   └── scrum/
-│       ├── product-backlog.md
-│       ├── definition-of-done.md
-│       ├── sprint-1.md
-│       ├── sprint-2.md
-│       ├── sprint-3.md
-│       ├── sprint-4.md
-│       └── review-final.md
-│
-└── assets/
-    └── imagens/
-```
-
-Essa organização permite que o avaliador consulte os principais documentos diretamente pelo GitHub.
-
----
-
 # Instruções de Uso
 
 A solução final é apresentada por meio do protótipo navegável desenvolvido no Figma.
@@ -837,29 +801,7 @@ https://trello.com/invite/b/6aa2e9837d0ec908b92b051d/ATTIdf32f6994ad6d3fd5172ae6
 
 ## Vídeo Final
 
-Adicionar aqui o link do vídeo final após a publicação.
-
----
-
-# Diferenciais do Projeto
-
-Entre os principais diferenciais da proposta estão:
-
-* monitoramento centralizado;
-* representação de alertas;
-* análise da confiança da detecção;
-* confirmação ou rejeição de ocorrências;
-* classificação de severidade;
-* acionamento de responsáveis;
-* tratamento completo;
-* encerramento;
-* histórico;
-* rastreabilidade;
-* filtros;
-* representação de monitoramento de EPIs;
-* indicadores;
-* arquitetura conceitual;
-* evolução documentada ao longo das quatro Sprints.
+()
 
 ---
 
@@ -917,6 +859,3 @@ A Sprint 4 consolida o trabalho realizado anteriormente por meio da revisão do 
 
 ---
 
-# Status do Projeto
-
-**Sprint 4 concluída — Entrega Final do UltraSafe.**
