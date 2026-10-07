@@ -1,1 +1,256 @@
+# Scrum — Sprint 4 | UltraSafe
+
+## Objetivo da Sprint
+
+A Sprint 4 teve como objetivo consolidar a entrega final do UltraSafe, garantindo que o protótipo estivesse revisado, navegável e coerente com a proposta da solução.
+
+Além da revisão do protótipo, esta Sprint também teve como foco organizar a documentação final, detalhar a arquitetura conceitual, definir a stack tecnológica proposta, atualizar o board Scrum e preparar a apresentação final do projeto.
+
+---
+
+## Sprint Goal
+
+Consolidar o UltraSafe como uma solução final de alta fidelidade, com protótipo navegável, documentação organizada, arquitetura conceitual definida e artefatos Scrum acessíveis no repositório.
+
+---
+
+## Sprint Backlog
+
+| ID | Atividade | Prioridade | Status |
+|---|---|---|---|
+| S4-01 | Revisar todas as telas do protótipo | Alta | Concluído |
+| S4-02 | Validar o fluxo principal da aplicação | Alta | Concluído |
+| S4-03 | Revisar o fluxo de tratamento de ocorrências | Alta | Concluído |
+| S4-04 | Revisar a tela de Histórico | Alta | Concluído |
+| S4-05 | Revisar os filtros disponíveis | Média | Concluído |
+| S4-06 | Revisar os estados visuais da aplicação | Média | Concluído |
+| S4-07 | Revisar modais e mensagens de confirmação | Média | Concluído |
+| S4-08 | Validar a navegação entre as telas | Alta | Concluído |
+| S4-09 | Revisar os dados simulados da Metaindústria | Média | Concluído |
+| S4-10 | Revisar a representação de EPIs | Média | Concluído |
+| S4-11 | Consolidar a arquitetura conceitual final | Alta | Concluído |
+| S4-12 | Definir a stack tecnológica proposta | Alta | Concluído |
+| S4-13 | Documentar as principais decisões técnicas | Alta | Concluído |
+| S4-14 | Consolidar o README final | Alta | Concluído |
+| S4-15 | Criar a documentação Scrum da Sprint 4 | Alta | Concluído |
+| S4-16 | Atualizar o Product Backlog | Alta | Concluído |
+| S4-17 | Revisar a Definition of Done | Média | Concluído |
+| S4-18 | Atualizar o board Trello | Alta | Concluído |
+| S4-19 | Registrar a Sprint Review Final | Alta | Concluído |
+| S4-20 | Preparar o roteiro do vídeo final | Alta | Em andamento |
+| S4-21 | Gravar o vídeo final | Alta | Pendente |
+| S4-22 | Inserir o link do vídeo no README | Média | Pendente |
+| S4-23 | Revisar o repositório antes da entrega | Alta | Pendente |
+
+---
+
+## Sprint Planning
+
+Durante o planejamento da Sprint 4, o grupo definiu como prioridade a consolidação da entrega final do UltraSafe.
+
+Os principais pontos definidos foram:
+
+- revisar o protótipo completo;
+- validar os fluxos principais;
+- revisar o tratamento de ocorrências;
+- revisar o Histórico;
+- verificar a navegação;
+- organizar a documentação;
+- detalhar a arquitetura conceitual;
+- definir a stack tecnológica proposta;
+- atualizar o README;
+- atualizar o Trello;
+- organizar os artefatos Scrum;
+- preparar o vídeo final.
+
+A Sprint foi organizada para garantir consistência entre protótipo, documentação e apresentação final.
+
+---
+
+## Daily Scrum
+
+Durante a Sprint, o grupo realizou acompanhamentos periódicos para verificar o andamento das atividades.
+
+Os principais pontos discutidos foram:
+
+- tarefas concluídas;
+- atividades em andamento;
+- pendências do protótipo;
+- ajustes necessários;
+- revisão da documentação;
+- atualização do Trello;
+- organização do repositório;
+- preparação do vídeo;
+- revisão dos links da entrega.
+
+Os acompanhamentos permitiram identificar as pendências e organizar os próximos passos da Sprint.
+
+---
+
+## Principais Decisões da Sprint
+
+### Protótipo como entrega principal
+
+Foi definido que a entrega final permaneceria como um protótipo navegável de alta fidelidade desenvolvido no Figma com apoio dos recursos de Inteligência Artificial da plataforma.
+
+Não houve desenvolvimento de código nesta Sprint.
+
+---
+
+### Revisão dos fluxos
+
+Os principais fluxos do protótipo foram revisados para garantir maior consistência na navegação.
+
+Entre eles:
+
+- Login;
+- Dashboard;
+- Monitoramento;
+- Alertas;
+- Detalhes da ocorrência;
+- Confirmação ou rejeição;
+- Classificação de severidade;
+- Acionamento da manutenção;
+- Tratamento;
+- Encerramento;
+- Histórico.
+
+---
+
+### Arquitetura conceitual
+
+Foi definida uma arquitetura técnica conceitual para representar como o UltraSafe poderia ser implementado futuramente.
+
+A stack proposta inclui:
+
+- React;
+- TypeScript;
+- Node.js;
+- Express;
+- PostgreSQL;
+- Python;
+- YOLO;
+- OpenCV;
+- REST;
+- WebSocket;
+- Socket.IO;
+- JWT.
+
+Essas tecnologias representam uma proposta de implementação futura e não foram implementadas nesta entrega.
+
+---
+
+### Organização da documentação
+
+A documentação da Sprint 4 foi organizada no próprio repositório para facilitar o acesso dos avaliadores.
+
+Os principais documentos incluem:
+
+- README;
+- Scrum da Sprint 4;
+- arquitetura conceitual;
+- Product Backlog;
+- Definition of Done;
+- Review Final.
+
+---
+
+## Product Backlog
+
+| ID | Funcionalidade | Prioridade | Status |
+|---|---|---|---|
+| PB01 | Tratamento de ocorrências | Alta | Concluído |
+| PB02 | Visualização detalhada da ocorrência | Alta | Concluído |
+| PB03 | Análise da confiança da detecção | Alta | Concluído |
+| PB04 | Confirmação de ocorrência | Alta | Concluído |
+| PB05 | Rejeição de ocorrência | Alta | Concluído |
+| PB06 | Classificação de severidade | Alta | Concluído |
+| PB07 | Registro de observações | Média | Concluído |
+| PB08 | Acionamento da manutenção | Alta | Concluído |
+| PB09 | Alteração de status | Alta | Concluído |
+| PB10 | Encerramento da ocorrência | Alta | Concluído |
+| PB11 | Linha do tempo da ocorrência | Média | Concluído |
+| PB12 | Histórico de ocorrências | Alta | Concluído |
+| PB13 | Filtros do histórico | Média | Concluído |
+| PB14 | Estados visuais da aplicação | Média | Concluído |
+| PB15 | Modais de confirmação | Média | Concluído |
+| PB16 | Melhoria da navegação | Alta | Concluído |
+| PB17 | Revisão final do protótipo | Alta | Concluído |
+| PB18 | Revisão dos dados simulados | Média | Concluído |
+| PB19 | Arquitetura conceitual | Alta | Concluído |
+| PB20 | Stack tecnológica proposta | Alta | Concluído |
+| PB21 | README final | Alta | Concluído |
+| PB22 | Documentação Scrum | Alta | Concluído |
+| PB23 | Atualização do Trello | Alta | Concluído |
+| PB24 | Review Final | Alta | Concluído |
+| PB25 | Vídeo de apresentação | Alta | Em andamento |
+
+---
+
+## Definition of Done
+
+Uma atividade da Sprint 4 é considerada concluída quando:
+
+- atende ao objetivo definido;
+- está coerente com a proposta do UltraSafe;
+- foi revisada pelo grupo;
+- está registrada no Trello;
+- possui documentação quando necessária;
+- não apresenta inconsistências relevantes;
+- pode ser demonstrada ou consultada pelo avaliador.
+
+Para telas e fluxos do protótipo, também devem ser atendidos os seguintes critérios:
+
+- navegação coerente;
+- botões principais com destino;
+- textos revisados;
+- componentes visuais consistentes;
+- estados adequados;
+- dados simulados coerentes;
+- fluxo sem interrupções relevantes.
+
+---
+
+## Sprint Review Final
+
+Na Sprint Review Final, o grupo revisou os principais elementos da entrega.
+
+Foram avaliados:
+
+- protótipo navegável;
+- fluxo de tratamento de ocorrências;
+- Histórico;
+- filtros;
+- modais;
+- linha do tempo;
+- estados visuais;
+- dados simulados;
+- arquitetura conceitual;
+- stack tecnológica proposta;
+- README;
+- documentação Scrum;
+- Trello;
+- organização do repositório.
+
+A Review confirmou que a entrega representa um protótipo acadêmico de alta fidelidade e não uma aplicação implementada em código.
+
+---
+
+## Resultados da Sprint
+
+A Sprint 4 permitiu consolidar o UltraSafe como uma proposta estruturada de solução para segurança industrial.
+
+Os principais resultados foram:
+
+- protótipo final revisado;
+- navegação validada;
+- fluxo completo de tratamento de ocorrências;
+- Histórico revisado;
+- documentação organizada;
+- arquitetura conceitual definida;
+- stack tecnológica proposta;
+- README consolidado;
+- artefatos Scrum registrados;
+- Trello atualizado;
+- preparação da apresentação final.
 
